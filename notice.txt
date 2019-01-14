@@ -1,1 +1,1 @@
-主题更新到<font color="#ff0000"><strong>9.8.5</strong></font>版本，另外金币可以直接搜索用户邮箱，用户ID，和订单号搜索，充值弹窗提醒做延时3秒钟处理，无法自动更新的可以点击这里更新：<a target="_blank" href="https://dev.tencent.com/u/googlo/p/Git/git/archive/alpha">下载最新版Git主题</a>
+主题更新到<font color="#ff0000"><strong>9.9</strong></font>版本，支付成功之后即时显示到账结果，无法自动更新的可以点击这里更新：<a target="_blank" href="https://dev.tencent.com/u/googlo/p/Git/git/archive/alpha">下载最新版Git主题</a>
