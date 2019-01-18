@@ -1,1 +1,1 @@
-主题更新到<font color="#ff0000"><strong>9.9</strong></font>版本，支付成功之后即时显示到账结果，无法自动更新的可以点击这里更新：<a target="_blank" href="https://dev.tencent.com/u/googlo/p/Git/git/archive/alpha">下载最新版Git主题</a>
+提前预警，有赞即将停止个人支付功能，正在使用的注意及时切换到其他支付方案，有赞官方已确认：<a target="_blank" href="https://bbs.youzan.com/thread-673275-1-1.html">有赞即将关闭个人支付</a>
